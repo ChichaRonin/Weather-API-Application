@@ -1,0 +1,22 @@
+h2{
+    font-family: 'Bungee';
+    padding-left: 20px;
+}
+
+.weatherText {
+    font-family: 'Bungee';
+    font-size: 24px;
+}
+
+#weatherForm {
+    padding: 20px;
+}
+
+#weatherSubmit {
+    font-family: 'Bungee';
+    color:white;
+    background-color:#FF0000;
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
